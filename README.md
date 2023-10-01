@@ -44,7 +44,7 @@ The system operates continuously, demonstrating the dynamic nature of Bitcoin-li
 # Simulation Examples
 
 
-[Watch the video](https://github.com/DanielGuarnizo/Block-Chain-Simulation/assets/87019453/6bdaa5e8-fa6a-4370-b20b-4b9213bbcdc0)
+![Watch the video](https://github.com/DanielGuarnizo/Block-Chain-Simulation/assets/87019453/6bdaa5e8-fa6a-4370-b20b-4b9213bbcdc0)
 
 
 ## Balances Over Time
