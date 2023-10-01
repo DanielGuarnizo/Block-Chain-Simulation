@@ -8,11 +8,13 @@ The Bitcoin simulation model is designed to provide insights into the operation 
 
 # Model Description
 The Bitcoin simulation model consists of the following key components:
+$ ./tree-md .
 ## Agents
-  • Agents represent participants in the Bitcoin network.
-  \n• They have balances and can initiate transactions with other agents.
-  • Balances are initially set, and agents randomly select other agents for transactions.
-  • Transactions are executed with limited amounts, and the balance is updated
+.
+  * Agents represent participants in the Bitcoin network.
+  * They have balances and can initiate transactions with other agents.
+  * Balances are initially set, and agents randomly select other agents for transactions.
+  * Transactions are executed with limited amounts, and the balance is updated
 accordingly.
 ## Miners
   • Miners are responsible for validating transactions and creating new blocks.
