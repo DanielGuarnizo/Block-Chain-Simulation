@@ -10,7 +10,7 @@ The Bitcoin simulation model is designed to provide insights into the operation 
 The Bitcoin simulation model consists of the following key components:
 ## Agents
   • Agents represent participants in the Bitcoin network.
-  • They have balances and can initiate transactions with other agents.
+  \n• They have balances and can initiate transactions with other agents.
   • Balances are initially set, and agents randomly select other agents for transactions.
   • Transactions are executed with limited amounts, and the balance is updated
 accordingly.
