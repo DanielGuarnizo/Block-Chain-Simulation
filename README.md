@@ -42,7 +42,11 @@ The Bitcoin simulation model emulates a simplified version of the Bitcoin system
 The system operates continuously, demonstrating the dynamic nature of Bitcoin-like systems.
 
 # Simulation Examples
-$ ./tree-md .
+
+
+![Watch the video](https://github.com/DanielGuarnizo/Block-Chain-Simulation/assets/87019453/6bdaa5e8-fa6a-4370-b20b-4b9213bbcdc0)
+
+
 ## Balances Over Time
   * As transactions occur, agent and miner balances fluctuate.
   * Balances gradually increase due to mining rewards.
